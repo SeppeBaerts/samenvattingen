@@ -161,7 +161,7 @@ Verbied iets, of zorg het
 > Bijvoorbeeld: Het moet in Java ontwikkeld worden,
 
 Quality requirements
-
+h
 > Bijvoorbeeld: of bijvoorbeeld Het systeem moet gebruiksvriendelijk zijn
 
 ### ISO
