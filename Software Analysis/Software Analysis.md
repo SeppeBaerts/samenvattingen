@@ -2,6 +2,13 @@
 
 Okey let's try it this way
 
+<img alt="samenvattende mindmap" src="samenvattende_mindmap.jpg">
+1 system en system context => ? <br/>
+2 Elicitation => Je gaat samenzitten met de stakeholders, en bekijken wat er gebeurd; <br/>
+3 Analyse => Ge gaat kijken of het wel mogelijk is, en hoe het zou kunnen; <br/>
+4 Specificatie => Je gaat de tickets schrijven / user stories,... <br/>
+5 Validatie en Negotiatie => Je gaat de mockups enzo laten nakijken, <br/>
+
 ## Examen
 
 Examen zal een deel gesloten boek zijn, deze versie heeft meerkeuzevragen zonder GIS-correctie. Verder is er nog een
@@ -17,6 +24,17 @@ Multiple choice => vragen goed lezen: requirements zijn functioneel en non-funct
 
 NIET VANBUITEN BLOKKEN: Je moet het begrijpen. Niet dat ik ooit echt iets vanbuiten leer, maar toch, dit sowiso niet
 doen
+
+Multiple choice => PESMURF Kapot goed kennen want zijn 45 punten van de multiple choice; <br/>
+Multiple Choice => 18 punten zijn vragen die een doelstelling geven en dan vragen of deze doelstelling SMART of niet is.
+Multiple choice => Die zet de 4 fases op een rij en jij moet die in de juiste volgorde zetten zie tekening hierboven(
+geel, grijs, paars, en die 2 dingen in blauw kader)'
+
+van les WK02 - 01c - SWA - Intro - Best practices - international standards - ISO - Nederlands.pdf
+moet je alleen maar de hoofdzaken kennen, niet de details.
+
+Multiple choice => The business analyst "van een requirement engineer, is het belangrijk dat die een aantal competenties heeft,
+dan somt hij er een paar op & een paar foute in" => jij moet dan de foute eruit halen
 
 ### PE
 
@@ -161,7 +179,6 @@ Verbied iets, of zorg het
 > Bijvoorbeeld: Het moet in Java ontwikkeld worden,
 
 Quality requirements
-h
 > Bijvoorbeeld: of bijvoorbeeld Het systeem moet gebruiksvriendelijk zijn
 
 ### ISO
@@ -170,9 +187,12 @@ Voor de software requirements bestaat ISO 25010 => Vooral niet-Functionele Requi
 
 ### Scope
 
+_(gele kader in het grote beeld)_
+
 Scope = Project scope + Product scope
 
-Product scope => User stories => Oplijsting wat gaat het PRODUCT KUNNEN (niet hoe gaan we het maken)
+Product scope (eigenlijk uw Product backlog) => User stories => Oplijsting wat gaat het PRODUCT KUNNEN (niet hoe gaan we
+het maken)
 > bijv: Smartphone => Moet kunnen bellen, sms'en, internetten,...
 
 project scope => Mensen, middelen, materialen => Wat hebben we nodig om het product te KUNNEN MAKEN
@@ -190,4 +210,10 @@ Alle 4 Beinvloeden elkaar, dus als 1 van de 4 dingen veranderen, moeten de ander
 Dat wordt een Business Analyst genoemd. Wij gaan met de definitie van IIBA Definition of a Business Analyst. <br/>
 _"A business analyst is any person who performs business analysis activities, no matter what their job title or
 organizational role may be."_
+
+Grafiekskes zijn op zich niet echt belangrijk.
+Business analyst is de brug tussen de business en de programmeurs. Elicitatie fase is hij vooral belangrijk, Hier moet
+hij onderoeken wat de klant eigenlijk wilt doen: Prototype maken, interviews, worshops,...
+
+Node van de business omzetten naar de technologische aspecten. 
 
